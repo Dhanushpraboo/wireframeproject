@@ -15,7 +15,7 @@ Write your design steps here
 ## Homepage:
 ![Home page](Homepage.png)
 ## ABOUTUS:
-![About US](Aboutus.png)
+![About US](AboutUs.png)
 ## PhotoGallery:
 ![Photo Gallery](Gallery.png)
 
