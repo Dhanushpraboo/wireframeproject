@@ -12,7 +12,8 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+##Homepage:
+![Home page](Homepage.png)
 
 
 ## Result:
