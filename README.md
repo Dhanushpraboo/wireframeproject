@@ -12,8 +12,12 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-##Homepage:
+## Homepage:
 ![Home page](Homepage.png)
+## ABOUTUS:
+![About US](Aboutus.png)
+## PhotoGallery:
+![Photo Gallery](Gallery.png)
 
 
 ## Result:
